@@ -1,2 +1,2 @@
-# Itzxri.github.io
+# itzxri.github.io
 Portfolio
