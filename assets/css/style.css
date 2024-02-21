@@ -444,7 +444,7 @@ body {
   #SKILLS
 \*-----------------------------------*/
 
-.skills .section-title { margin-block-end: 20px; }
+.skills .section-title { margin-block-end: 40px; }
 
 .skills .section-text { margin-block-end: 70px; }
 
@@ -926,8 +926,8 @@ textarea.contact-input {
   }
 
   @keyframes rotate360 {
-    0% { transform: rotate(0); }
-    100% { transform: rotate(1turn); }
+    100% { transform: rotate(0); }
+    0% { transform: rotate(1turn); }
   }
 
 
